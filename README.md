@@ -6,4 +6,4 @@ Technical Product Manager - favourites: NextJs, FastAPI, VectorDBs, Kotlin, Mult
 
 No right or left, only up📈
 
-[ Kreoh ] (https://www.kreoh.com/)
+[ Kreoh ](https://www.kreoh.com/)
